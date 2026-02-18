@@ -1,4 +1,4 @@
-# Introductie OGC API - Features
+# Introductie Search
 
 !!! abstract "Leerdoelen"
 
