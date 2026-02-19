@@ -4,7 +4,7 @@
 
     !!! warning "TO DO"
 
-    Na het afronden van dit onderdeel:
+    Na het afronden van dit onderdeel kan je:
 
     - Weet je uit welke verschillende onderdelen de OGC API (- Features) bestaat en wat die onderdelen doen;
     - Weet je welke onderdelen PDOK heeft geïmplementeerd; 
